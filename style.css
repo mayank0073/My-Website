@@ -1,0 +1,34 @@
+h2{
+   font-weight: bold;
+   color:greenyellow;
+   background-color:red;
+}
+.bad{
+    font-size:25px;
+    background-color:greenyellow;
+}
+body{ background-color:blueviolet}
+#boy{font-size:50px;
+    font-weight:bold;
+}
+  
+.a{
+    color: white;
+    font-size: 22px;
+}
+
+.w{
+    font-size:20px;
+   columns: #252525;
+}
+
+.y{
+    background-color:yellow
+
+
+}
+/* .s{
+    background-image: url(my.jpg);
+} */
+.h
+{background-color: blue}

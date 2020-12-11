@@ -1,0 +1,35 @@
+h2{
+   font-weight: bold;
+   color:greenyellow;
+   background-color:red;
+}
+.bad{
+    font-size:25px;
+    background-color:greenyellow;
+}
+body{ background-color:rgb(226, 131, 43)}
+#boy{font-size:50px;
+    font-weight:bold;
+}
+  
+.a{
+    color: white;
+    font-size: 22px;
+}
+
+.w{
+    font-size:20px;
+   columns: #252525;
+}
+
+.y{
+    background-color:yellow
+}
+.s{
+    background-image: url("group-img.jpeg");
+}
+.h
+{
+    background-color: #bde782;
+    font-style: italic;
+}
